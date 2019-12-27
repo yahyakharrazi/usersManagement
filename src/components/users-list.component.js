@@ -54,7 +54,7 @@ export default class UsersList extends Component {
     return (
       <div>
         <h3>Logged Users</h3>
-        <table className="table table-dark">
+        <table className="table table-stripped">
           <thead className="thead-light">
             <tr>
               <th>Username</th>
